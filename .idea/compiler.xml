@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Project_Selenium_Automate_Renner" />
         <module name="meuPrimerioTeste" />
         <module name="Project_Selenium_Automate_FormPage" />
         <module name="Learning_Selenium_Common_Actions" />
